@@ -123,6 +123,6 @@ MIT — делай что хочешь, только упомяни автора
 <p align="center">
   <b>Если полезно — ставь ⭐ репозиторию!</b><br><br>
   <a href="https://t.me/hatethisproject">📱 Telegram-канал</a> •
-  <a href="https://funpay.com/users/4210009/">🛒 FunPay</a>
+  <a href="https://funpay.com/users/4210009/">🛒 FunPay</a> •
   <a href="https://tiktok.com/@wsoeoee">🎵 TikTok</a>
 </p>
